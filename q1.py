@@ -1,4 +1,4 @@
-# PYTHON ALGORITHM FOR SUM 
+# PYTHON ALGORITHM FOR SUMMING NUMBERS IN A RANGE 
 inputNumber = int(input("Input a number for maximum range: "))
 # Initialize sum of elements to be 0 at the beginning
 totalSum = 0
